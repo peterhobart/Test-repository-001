@@ -1,3 +1,4 @@
+/**/
 /*Add the text between the SAS comments
 to the metadata logconfig.xml file*/
 
