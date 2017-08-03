@@ -1,6 +1,8 @@
-/*    */
+/*Another comment, just to create a new version*/
+/*  MORE TEXT  */
 /*Add the text between the SAS comments
 to the metadata logconfig.xml file*/
+/* New line of commenting */
 
 
 /*
